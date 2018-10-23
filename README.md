@@ -1,6 +1,7 @@
 # nodeMcuSimple
 
 # pinMap
+<pre>
 <code>
 static const uint8_t D0   = 16;
 static const uint8_t D1   = 5;
@@ -14,3 +15,4 @@ static const uint8_t D8   = 15;
 static const uint8_t D9   = 3;
 static const uint8_t D10  = 1;
 </code>
+</pre>
